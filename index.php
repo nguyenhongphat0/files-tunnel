@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 $target_dir = "uploads/";
 $max_size = 5000000;
 $log = "";
