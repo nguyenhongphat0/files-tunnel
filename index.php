@@ -1,6 +1,6 @@
 <?php
 $target_dir = "uploads/";
-$max_size = 500000;
+$max_size = 5000000;
 $log = "";
 $files = $_FILES["files"];
 for ($i=0; $i < count($files["name"]); $i++) {
