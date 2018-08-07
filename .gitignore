@@ -1,2 +1,4 @@
 uploads/*
 !uploads/null
+downloads/*
+!downloads/null
